@@ -1,0 +1,17 @@
+/* ========================= */
+pre[class*="language-"] {
+  background-color: #415257;
+  color: greenyellow;
+  text-shadow: none;
+}
+
+code[class*="language-"] {
+  text-shadow: none;
+  color: greenyellow;
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+  /* white-space: normal !important; */
+  /* word-break: break-word !important; */
+}
